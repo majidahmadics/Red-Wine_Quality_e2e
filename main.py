@@ -1,0 +1,1 @@
+print("Hellow industury world!")
